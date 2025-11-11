@@ -83,7 +83,6 @@ form input {
 .msg {
   margin: 2rem 0 2rem 0;
   text-align: center;
-  /* font-weight: bold; */
   font-size: 1.25rem;
 }
 
@@ -92,5 +91,6 @@ form button {
   background-color: #187795;
   color: #fff;
   font-size: 1.15rem;
+  font-weight: bold;
   cursor: pointer;
 }
